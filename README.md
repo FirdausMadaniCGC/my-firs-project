@@ -1,4 +1,4 @@
-# my-firs-project
+# My-First-Project
 My First GitHub Project
 ## About
 This is my first project on GitHub
